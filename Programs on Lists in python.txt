@@ -1,0 +1,7 @@
+Programs on Lists in python
+
+1. write a python program which accepts a list of integers and prints the sum of those elements.
+
+2. write a python program which accepts a list of integers and prints the largest number among them.
+
+3. write a python program which accepts two matrices and prints addition of those 2 matrices.

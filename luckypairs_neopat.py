@@ -1,0 +1,12 @@
+a,b,n=input().split()
+a=int(a)
+b=int(b)
+n=int(n)
+i=1
+while(i<=n):
+    if(i%2==0):
+        b=b*2
+    else:
+        a=a*2
+    i=i+1
+print(a+b)

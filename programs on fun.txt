@@ -1,0 +1,7 @@
+1.Define a function with name SI 
+that accepts p,t & r values and returns simple interest.
+Accept p,t & r and call SI by passing p,t & r values.
+print simple interest on the screen
+
+2. define fact fun. with no args. and no return statement.
+   accept an int and call fact()
